@@ -2,8 +2,8 @@ import React from 'react'
 import { Grid, Row } from 'react-bootstrap'
 import { Col } from '../components/Col'
 import ReactMarkdown from 'react-markdown'
-import GithubContentProvider from '../utils/GithubContentProvider'
-const db = new GithubContentProvider('opensourcerytv', 'opensourcery-content', 'subjects')
+import GithubContent from '../utils/GithubContent'
+const db = new GithubContent('opensourcerytv', 'opensourcery-content', 'subjects')
 
 export default class extends React.Component {
   

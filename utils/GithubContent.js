@@ -3,7 +3,7 @@ import { Base64 } from 'js-base64'
 import low from 'lowdb'
 import LocalStorage from 'lowdb/adapters/LocalStorage'
 
-export default class GithubContentProvider {
+export default class GithubContent {
 	username
 	reponame
 	baseurl
