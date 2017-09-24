@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # opensourcery.tv
 Main website built with NextJS
-=======
 
 # NextGram
 
