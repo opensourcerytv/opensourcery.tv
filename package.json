@@ -12,8 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.2",
+    "js-base64": "^2.3.2",
+    "lowdb": "^1.0.0",
     "next": "^3.2.2",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-bootstrap": "^0.31.3",
+    "react-dom": "^15.6.1",
+    "react-json-inspector": "^7.1.0",
+    "react-markdown": "^2.5.0"
   }
 }
